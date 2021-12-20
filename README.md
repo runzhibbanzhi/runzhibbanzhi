@@ -19,7 +19,7 @@
         title: '윤지&동호 결혼식',
         description: '2022년1월22일 오후1시 30분',
         imageUrl:
-          '사진주소',
+          'https://postfiles.pstatic.net/MjAyMTAzMThfMTMy/MDAxNjE2MDc3MDYzNjcw.mtxm3frRMB7iTiIBdK6pmEZHlxAQVYUjpM8q28Z6JbMg.SPI3a7r5XFfrh85VKyuhSCwUw0L8XqenXMsoxFGdAGgg.JPEG.skylake79486/IMG_20210318_230731_777.jpg?type=w966',
         link: {
           mobileWebUrl: 'https://drm1.quv.kr/',
           webUrl: 'https://drm1.quv.kr/',
